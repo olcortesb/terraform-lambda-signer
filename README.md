@@ -68,11 +68,11 @@ ref: https://docs.aws.amazon.com/signer/latest/developerguide/Welcome.html
 
 If the deployment is success, the code of lambda does not show in the console
 
-Code before configure AWS signer
+### Code before configure AWS signer (fea/base branch)
 
 ![image](/docs/tf-lambda-signer-1.png)
 
-Code after configure AWS signer
+### Code after configure AWS signer (main branch)
 
 ![image](/docs/tf-lambda-signer-2.png)
 
